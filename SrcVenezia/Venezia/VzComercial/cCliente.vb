@@ -3,6 +3,8 @@ Imports MySql.Data.MySqlClient
 Imports VzAdmin
 Imports VzComercial
 
+'PROBANDO COMENTARIOS
+
 Public Class cCliente
 
 #Region "Declaracioens"
