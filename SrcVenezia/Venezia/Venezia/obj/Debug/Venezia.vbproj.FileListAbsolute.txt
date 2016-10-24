@@ -260,3 +260,7 @@ C:\Users\l0277134\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\bin\D
 C:\Users\l0277134\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\obj\Debug\Venezia.exe
 C:\Users\l0277134\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\obj\Debug\Venezia.xml
 C:\Users\l0277134\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\obj\Debug\Venezia.pdb
+C:\Users\IBM_ADMIN\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\bin\Debug\Venezia.exe.config
+C:\Users\IBM_ADMIN\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\obj\Debug\Venezia.exe
+C:\Users\IBM_ADMIN\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\obj\Debug\Venezia.xml
+C:\Users\IBM_ADMIN\Documents\GitHub\Venezia_Desa\SrcVenezia\Venezia\Venezia\obj\Debug\Venezia.pdb

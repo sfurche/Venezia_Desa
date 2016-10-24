@@ -1,5 +1,6 @@
 ﻿Imports VzAdmin
 Imports MySql.Data.MySqlClient
+''comentario prueba
 
 Public Class cGrupoArticulo
 
